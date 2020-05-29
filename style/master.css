@@ -1,5 +1,5 @@
 body{
-  font-family: raleway;
+  font-family: raleway, sans-serif;
   cursor: crosshair;
 }
 
@@ -11,11 +11,13 @@ footer{
   margin-top: 40px;
 }
 
-#navbarNav {
-  display: flex;
-  justify-content: flex-end;
-}
 
+@media only screen and (min-width: 992px) {
+  #navbarNav {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
 
 /*homepage*/
 
