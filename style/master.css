@@ -1,6 +1,5 @@
 body{
   font-family: raleway, sans-serif;
-  cursor: crosshair;
 }
 
 footer li{
@@ -11,6 +10,11 @@ footer{
   margin-top: 40px;
 }
 
+@media only screen and (min-width: 576px) {
+  div.small-container {
+    width: 680px;
+  }
+}
 
 @media only screen and (min-width: 992px) {
   #navbarNav {
@@ -23,24 +27,22 @@ footer{
 
 .homepage {
   width:100%;
- height: 100vh;
- display:table;
+  display:table;
 }
 
 
 .bg-image {
-  background-image: url(../assets/images/homepage.jpg);
   background-size: cover;
   background-position: center;
+  background-color: white;
 
 }
 
 .homepage .container {
-  padding-top: 350px;
-  display:table-cell;
-  vertical-align:middle;
-  text-align: center;
+  padding-top: 50px;
+  text-align: left;
 }
+
 
 
 .navbar-collapse {
@@ -59,7 +61,6 @@ h3 {
 }
 
 .homepage p {
-margin-bottom: 300px;
 font-weight: 300;
 font-size: 20px;
 padding-top: 20px;
@@ -71,6 +72,7 @@ padding-top: 20px;
 }
 
 
+
 hr{
   width: 500px;
 }
@@ -79,34 +81,74 @@ hr{
   margin-bottom: 20px
 }
 
-
-.btn-img {
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  border-radius: 3px;
+.card{
+  border: 0px;
+  border-radius: 0px;
 }
 
-.btn-img:hover {
+.row{
+  flex-wrap: wrap;
+}
+
+#uber .image {
+  height: 400px;
+  background-size: cover;
+  background-image: url(../assets/images/ubercard.png);
+  background-position: center;
+  transition: background-image 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+#uber .image:hover {
   background-image: url(../assets/images/ubercardover.png);
   transition: background-image 0.2s;
   transition-timing-function: ease-in-out;
-}
-
-
-
-#airfrance .image {
-  height: 400px;
-  background-size: cover;
-  background-image: url(../assets/images/cat-1.jpeg);
-  transition: background-image 0.2s;
-  transition-timing-function: ease-in-out;
-}
-#airfrance .image:hover {
-  background-image: url(../assets/images/dog-1.jpg);
-  transition: background-image 0.2s;
-  transition-timing-function: ease-in-out;
   }
+
+  #domyos .image {
+    height: 400px;
+    background-size: cover;
+    background-image: url(../assets/images/domyoscard.png);
+    background-position: center;
+    transition: background-image 0.2s;
+    transition-timing-function: ease-in-out;
+  }
+
+  #domyos .image:hover {
+    background-image: url(../assets/images/domyosover.png);
+    transition: background-image 0.2s;
+    transition-timing-function: ease-in-out;
+    }
+
+    #orbis .image {
+      height: 400px;
+      background-size: cover;
+      background-image: url(../assets/images/orbiscard.png);
+      background-position: center;
+      transition: background-image 0.2s;
+      transition-timing-function: ease-in-out;
+    }
+
+    #orbis .image:hover {
+      background-image: url(../assets/images/orbiscardover.png);
+      transition: background-image 0.2s;
+      transition-timing-function: ease-in-out;
+      }
+
+      #gmp .image {
+        height: 400px;
+        background-size: cover;
+        background-image: url(../assets/images/gmpcard.png);
+        background-position: center;
+        transition: background-image 0.2s;
+        transition-timing-function: ease-in-out;
+      }
+
+      #gmp .image:hover {
+        background-image: url(../assets/images/gmpcardoverpng.png);
+        transition: background-image 0.2s;
+        transition-timing-function: ease-in-out;
+        }
 
 
 
@@ -131,26 +173,19 @@ hr{
 /*aboutme*/
 
 .about-me img{
-  margin-top: 200px;
+  margin-top: 50px;
   padding-bottom: 50px;
+  align-content: center;
 }
+
 .about-me p{
   font-size: 15px;
+  margin-top: 15px;
+  padding-bottom: 50px;
 }
 
-.about-me h1 {
-  font-size: 300px;
-  font-weight: 800;
-  color:#FFF3DB;
-  padding-top: 20px;
-}
-
-.social-network ul{
-  list-style: none;
-}
-.social-network li {
-  display:inline;
-  padding-right: 20px;
+.about-me h2{
+  margin-top: 50px;
 }
 
 /*project page*/
@@ -308,11 +343,4 @@ margin-bottom: 30px;
   font-size: 15px;
   font-weight: bold;
   font-style: italic;
-}
-
-
-@media only screen and (min-width: 576px) {
-  div.small-container {
-    width: 680px;
-  }
 }

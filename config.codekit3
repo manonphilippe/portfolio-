@@ -17,6 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/aboutme.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -58,6 +66,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/domyosover.png": {
+		"ft": 32768,
+		"iS": 318733,
+		"oA": 0,
+		"oAP": "/assets/images/domyosover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/gmpcard.png": {
+		"ft": 32768,
+		"iS": 193706,
+		"oA": 0,
+		"oAP": "/assets/images/gmpcard.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/gmpcardoverpng.png": {
+		"ft": 32768,
+		"iS": 247133,
+		"oA": 0,
+		"oAP": "/assets/images/gmpcardoverpng.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/hello.gif": {
 		"ft": 4194304,
 		"iS": 310850,
@@ -74,7 +115,7 @@
 		"oAP": "/assets/images/homepage.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/images/inde1.JPG": {
@@ -184,6 +225,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/manon.png": {
+		"ft": 32768,
+		"iS": 255145,
+		"oA": 0,
+		"oAP": "/assets/images/manon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/moodbard.png": {
 		"ft": 32768,
 		"iS": 611619,
@@ -200,6 +252,17 @@
 		"iS": 210521,
 		"oA": 0,
 		"oAP": "/assets/images/orbiscard.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/orbiscardover.png": {
+		"ft": 32768,
+		"iS": 184065,
+		"oA": 0,
+		"oAP": "/assets/images/orbiscardover.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -422,6 +485,14 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -513,14 +584,6 @@
 		"oAP": "/style/normalize-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/style/Nouveau dossier contenant des éléments/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/style/Nouveau dossier contenant des éléments/index.html",
-		"oF": 0
 		},
 	"/work.html": {
 		"cB": 0,
