@@ -44,11 +44,85 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 31276,
+		"oA": 0,
+		"oAP": "/assets/images/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 145500,
+		"oA": 0,
+		"oAP": "/assets/images/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 27994,
+		"oA": 0,
+		"oAP": "/assets/images/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/bg-essai.jpg": {
+		"ft": 16384,
+		"iS": 208436,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/bg-essai.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/cv.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/images/cv.pdf",
+		"oF": 0
+		},
 	"/assets/images/cvcard.png": {
 		"ft": 32768,
 		"iS": 207338,
 		"oA": 0,
 		"oAP": "/assets/images/cvcard.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/design-process.png": {
+		"ft": 32768,
+		"iS": 260250,
+		"oA": 0,
+		"oAP": "/assets/images/design-process.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/domyos-card.png": {
+		"ft": 32768,
+		"iS": 316674,
+		"oA": 0,
+		"oAP": "/assets/images/domyos-card.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -71,6 +145,69 @@
 		"iS": 318733,
 		"oA": 0,
 		"oAP": "/assets/images/domyosover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/essai.png": {
+		"ft": 32768,
+		"iS": 1693,
+		"oA": 0,
+		"oAP": "/assets/images/essai.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/essai2.png": {
+		"ft": 32768,
+		"iS": 1757,
+		"oA": 0,
+		"oAP": "/assets/images/essai2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 735,
+		"oA": 0,
+		"oAP": "/assets/images/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1910,
+		"oA": 0,
+		"oAP": "/assets/images/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/images/favicon.ico",
+		"oF": 0
+		},
+	"/assets/images/gmp.png": {
+		"ft": 32768,
+		"iS": 433524,
+		"oA": 0,
+		"oAP": "/assets/images/gmp.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -173,6 +310,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/ironhack-cover.png": {
+		"ft": 32768,
+		"iS": 627567,
+		"oA": 0,
+		"oAP": "/assets/images/ironhack-cover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/jazz1.png": {
 		"ft": 32768,
 		"iS": 139203,
@@ -214,6 +362,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/images/logomanon.png": {
+		"ft": 32768,
+		"iS": 5260,
+		"oA": 0,
+		"oAP": "/assets/images/logomanon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/manon.jpg": {
 		"ft": 16384,
 		"iS": 662642,
@@ -247,6 +406,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/images/orbis-card.png": {
+		"ft": 32768,
+		"iS": 427462,
+		"oA": 0,
+		"oAP": "/assets/images/orbis-card.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/orbis-cover.png": {
+		"ft": 32768,
+		"iS": 853023,
+		"oA": 0,
+		"oAP": "/assets/images/orbis-cover.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/images/orbiscard.png": {
 		"ft": 32768,
 		"iS": 210521,
@@ -266,6 +447,28 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/ostrichpillow-card.png": {
+		"ft": 32768,
+		"iS": 1294516,
+		"oA": 0,
+		"oAP": "/assets/images/ostrichpillow-card.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/ostrichpillow-cover.png": {
+		"ft": 32768,
+		"iS": 747563,
+		"oA": 0,
+		"oAP": "/assets/images/ostrichpillow-cover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -293,6 +496,17 @@
 		"iS": 4967959,
 		"oA": 0,
 		"oAP": "/assets/images/sketchbook.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/images/ta-card.png": {
+		"ft": 32768,
+		"iS": 300376,
+		"oA": 0,
+		"oAP": "/assets/images/ta-card.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -485,20 +699,20 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/CNAME": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/CNAME",
-		"oF": 0
-		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/index1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/index1.html",
 		"oF": 0
 		},
 	"/photography.html": {
@@ -509,20 +723,44 @@
 		"oAP": "/photography.html",
 		"oF": 0
 		},
-	"/projects/jazzaporquerolles-project.html": {
+	"/projects/domyos-project.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/projects/jazzaporquerolles-project.html",
+		"oAP": "/projects/domyos-project.html",
 		"oF": 0
 		},
-	"/projects/uber-project.html": {
+	"/projects/gomypartner-project.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/projects/uber-project.html",
+		"oAP": "/projects/gomypartner-project.html",
+		"oF": 0
+		},
+	"/projects/ironhack-project.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/projects/ironhack-project.html",
+		"oF": 0
+		},
+	"/projects/orbis-project.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/projects/orbis-project.html",
+		"oF": 0
+		},
+	"/projects/ostrichpillow-project.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/projects/ostrichpillow-project.html",
 		"oF": 0
 		},
 	"/style/animate-min.css": {
@@ -602,7 +840,7 @@
 	"creationDate": 610276177.22926295,
 	"displayValue": "portfolio ",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_green",
+	"iconImageName": "/assets/images/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
